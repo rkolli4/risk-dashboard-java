@@ -1,0 +1,14 @@
+{
+  "symbol": "^NSEI",
+  "price": 22500.0,
+  "change_percent": 0.0,
+  "captured_at": "2026-09-08T09:47:04.760083+00:00",
+  "source": "demo-fallback",
+  "total_deposit": 1000000,
+  "min_liquid_networth": 250000,
+  "initial_margin": 100000,
+  "extreme_loss_margin": 50000,
+  "tm_limit": 500000,
+  "position_qty": 10,
+  "position_limit": 1000000
+}

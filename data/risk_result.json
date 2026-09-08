@@ -1,0 +1,9 @@
+{
+  "captured_at": "2026-09-08T09:47:04.760083+00:00",
+  "state": "PENALTY",
+  "exposure": 225000.00,
+  "utilization": 0.225000,
+  "penalty": 0.00,
+  "liquid_networth": 775000.00,
+  "message": "Penalty applied: margin or utilization threshold breached"
+}
