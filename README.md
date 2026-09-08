@@ -6,6 +6,10 @@ A Windows-friendly market risk pipeline: Python fetches a Nifty snapshot, SQLite
 
 From PowerShell:
 
+<img width="1328" height="943" alt="image" src="https://github.com/user-attachments/assets/9ce2a438-c458-4db1-bece-a4474b1c265c" />
+
+
+
 ```powershell
 ./run_pipeline.ps1
 ```
